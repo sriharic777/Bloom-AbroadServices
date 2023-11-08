@@ -1,0 +1,51 @@
+Sitemap: https://bloomabroad.services/sitemap.xml
+
+User-agent: *
+Allow: /
+
+User-agent: *
+Allow: /index.html
+
+User-agent: *
+Allow: /events.html
+
+User-agent: *
+Disallow: /*
+
+User-agent: *
+Disallow: /accommodation.html
+
+User-agent: *
+Disallow: /student-accommodation.html
+
+User-agent: *
+Disallow: /working-pro-accommodation.html
+
+User-agent: *
+Disallow: /banking-forex.html
+
+User-agent: *
+Disallow: /pre-departure.html
+
+User-agent: *
+Disallow: /post-landing.html
+
+User-agent: *
+Disallow: /faq.html
+
+User-agent: *
+Disallow:/contactus.html
+
+User-agent: *
+Disallow: /about-us.html
+
+User-agent: *
+Disallow: /uk.html
+
+User-agent: *
+Disallow: /ireland.html
+
+User-agent: *
+Disallow: /germany.html
+
+
